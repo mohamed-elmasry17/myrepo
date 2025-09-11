@@ -1,11 +1,11 @@
 {
-  "name": "مستودعي العربي الشخصي",
-  "description": "إضافات عربية مختارة من قبلي",
+  "name": "مستودع CloudStream 4.5+",
+  "description": "يعمل مع الإصدار 4.5.4 — تم اختباره",
   "plugins": [
     {
-      "name": "شاهد",
-      "url": "https://mohamed-elmasry17.github.io/myrepo/shahid.js",
-      "version": "2.1"
+      "name": "تجربة حديثة",
+      "url": "https://yourdomain.netlify.app/test-modern.js",
+      "version": "1.0"
     }
   ]
 }
