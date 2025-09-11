@@ -3,24 +3,9 @@
   "description": "إضافات عربية مختارة من قبلي",
   "plugins": [
     {
-      "name": "CimaClub",
-      "url": "https://cinewan.net/plugins/cimaclub.js",
+      "name": "شاهد",
+      "url": "https://mohamed-elmasry17.github.io/myrepo/cimaclub.js",
       "version": "2.1"
-    },
-    {
-      "name": "Movs4u",
-      "url": "https://cinewan.net/plugins/movs4u.js",
-      "version": "1.9"
-    },
-    {
-      "name": "MyCima",
-      "url": "https://cinewan.net/plugins/mycima.js",
-      "version": "3.0"
-    },
-    {
-      "name": "Shahid (مجاني)",
-      "url": "https://shahid-plugin.pages.dev/shahid.js",
-      "version": "1.2"
     }
   ]
 }
